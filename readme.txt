@@ -1,9 +1,9 @@
 === Remove WooCommerce Product Related ===  
-Contributors: marcos-alexandre    
+Contributors: MarcosAlexandre    
 Donate link: https://marcosalexandre.dev/doacoes/  
 Tags: woocommerce, product-related  
 Requires at least: 5.0  
-Tested up to: 5.5.2  
+Tested up to: 5.2.2  
 Stable tag: 1.0.0  
 Requires PHP: 5.6  
 License: GPLv2 or later  
