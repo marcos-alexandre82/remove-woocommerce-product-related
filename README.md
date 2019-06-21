@@ -1,8 +1,6 @@
 # Remove Woocommerce Product Related
 
-## Remove WooCommerce Product Related  
-
-<strong>Contributors:</strong> marcos-alexandre    
+<strong>Contributors:</strong> MarcosAlexandre    
 <strong>Donate link:</strong> https://marcosalexandre.dev/doacoes/  
 <strong>Tags:</strong> woocommerce, product-related  
 <strong>Requires at least:</strong> 5.0  
