@@ -28,9 +28,9 @@ Works with the plugin:
 
 == Installation ==  
 
-Download the plugin  
-Upload the plugin to the wp-content/plugins directory,  
-Go to “plugins” in your WordPress admin, then click activate. 
+1-Download the plugin.  
+2-Upload the plugin to the wp-content/plugins directory.  
+3-Go to “plugins” in your WordPress admin, then click activate. 
 
 == Doubts? ==
 
