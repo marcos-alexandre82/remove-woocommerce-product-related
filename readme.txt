@@ -1,7 +1,4 @@
-# Remove Woocommerce Product Related
-
-=== Remove WooCommerce Product Related ===
-
+=== Remove WooCommerce Product Related ===  
 Contributors: marcos-alexandre    
 Donate link: https://marcosalexandre.dev/doacoes/  
 Tags: woocommerce, product-related  
